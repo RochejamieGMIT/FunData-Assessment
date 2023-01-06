@@ -1,14 +1,15 @@
 Normal Distribution Project:
 
-For the normal distribution project I started with an intial history of the development of the normal distribution.
+For the normal distribution project, I started with an initial history of the development of the normal distribution.
 
 After the history introduction I I cover the technical explanation and the formula. 
 
 Supported with graphs and code to display the normal distribution. 
 
-After dipicting the normal distribution, I go through using stats.normaltest(s) and kurtosistest(s) to test the generated data for normal distribution. 
+After depicting the normal distribution, I go through using stats.normaltest(s) and kurtosistest(s) to test the generated data for normal distribution. 
 
-And finally list and very briefly explain some further test methods available. 
+And finally list and very briefly explain some further test methods available.
+
 
 
 
